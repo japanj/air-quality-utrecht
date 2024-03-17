@@ -1,4 +1,6 @@
 # Air quality analysis in Utrecht municipality
+Analyze the air quality in Utrecht by using data from Luchtmeetnet and Samenmeten.
+
 This project is part of Acquisition and Exploration of Geo-Data course.
 
 ## Folder Structure
